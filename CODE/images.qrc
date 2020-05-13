@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/about.png</file>
+        <file>images/exit.png</file>
+        <file>images/saveas.png</file>
+        <file>images/build.png</file>
+        <file>images/run.png</file>
+        <file>images/aboutsnl.png</file>
+        <file>images/bold.png</file>
+        <file>images/color.png</file>
+        <file>images/italic.png</file>
+        <file>images/underline.png</file>
+        <file>images/redo.png</file>
+        <file>images/undo.png</file>
+        <file>images/app.png</file>
+    </qresource>
+</RCC>
